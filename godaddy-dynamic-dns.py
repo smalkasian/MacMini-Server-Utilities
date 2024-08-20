@@ -15,9 +15,9 @@ import time
 from datetime import datetime
 
 #--------------------------------------VARIABLES------------------------------------------
-API_KEY = '1234'  # Replace with your actual API key
-API_SECRET = "1234"  # Replace with your actual API secret
-DOMAINS = ['example1.com', 'example2.com']  # Replace with your actual domains. (Note: If you only have one domain, leave only ONE in the list.)
+API_KEY = 'REPLACE_WITH_YOUR_KEY'  # Replace with your actual API key
+API_SECRET = "REPLACE_WITH_YOUR_SECRET"  # Replace with your actual API secret
+DOMAINS = ['yourwebsite.com']  # Replace with your actual domains. (Note: If you only have one domain, leave only ONE in the list.)
 RECORD_TYPE = 'A'
 RECORD_NAME = '@'
 CHECK_INTERVAL = 300
