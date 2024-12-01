@@ -1,5 +1,5 @@
 #------------------------------------------------------------------------------------
-# Developed by MalkasianGroup, LLC - Open Source DNS updater for GoDaddy® Domains.
+# Developed by Carpathian, LLC - Open Source DNS updater for GoDaddy® Domains.
 # Free for personal use only – for enterprise or business use, please email malkasian(a)dsm.studio
 #------------------------------------------------------------------------------------
 # Legal stuff:

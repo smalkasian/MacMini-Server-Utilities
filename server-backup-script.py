@@ -1,5 +1,5 @@
 #------------------------------------------------------------------------------------
-# Developed by MalkasianGroup, LLC - Open Source server backup script for MacMini
+# Developed by Carpathian, LLC - Open Source server backup script for MacMini
 # Free for personal use only – for enterprise or business use, please email malkasian(a)dsm.studio
 #---------------------------------------------------------------------------------------
 

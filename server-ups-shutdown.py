@@ -1,5 +1,5 @@
 #------------------------------------------------------------------------------------
-# Developed by MalkasianGroup, LLC - Open Source server shutdown script for multiple MacMini's Running on
+# Developed by Carpathian, LLC - Open Source server shutdown script for multiple MacMini's Running on
 # a local network.
 # Free for personal use only – for enterprise or business use, please email malkasian(a)dsm.studio
 #---------------------------------------------------------------------------------------

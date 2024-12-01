@@ -1,5 +1,5 @@
 #------------------------------------------------------------------------------------
-# Developed by MalkasianGroup, LLC - Open Source DNS updater for DynaDot® hosted domains.
+# Developed by Carpathian, LLC - Open Source DNS updater for DynaDot® hosted domains.
 # Free for personal use only – for enterprise or business use, please email malkasian(a)dsm.studio
 #------------------------------------------------------------------------------------
 # Legal stuff:
